@@ -25,4 +25,5 @@
 ## git config --global user.name "Nayan"
 ## git config --global user.email "tera@email.com" (jo github pe daala h)
 # jb life m pehli baar commit krte h toh ek baar daalna pdtha h 
-###
+### git add .  saare file ko add / TRACK krdete h jitni bhi h folder m automatically if you want
+# "M" KA MTLB H FILE TRACK HO GYI LEKIN COMMIT AND PUSH NHI HUA CODE
