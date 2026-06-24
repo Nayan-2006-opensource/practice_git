@@ -27,3 +27,10 @@
 # jb life m pehli baar commit krte h toh ek baar daalna pdtha h 
 ### git add .  saare file ko add / TRACK krdete h jitni bhi h folder m automatically if you want
 # "M" KA MTLB H FILE TRACK HO GYI LEKIN COMMIT AND PUSH NHI HUA CODE
+
+
+## git add .-> folder ki saari files automatically track ya add hogyengi repo m 
+
+# ab bs hme changes krane ke baad git commit and git push krana h chahe same file ho ya new fie ho
+## git branch aur git remote add origin — dono sirf ek baar. Chahe kitni bhi files ho.
+# git init bhi bs ek baar aata h
