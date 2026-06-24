@@ -5,7 +5,6 @@ print("hellooo")
 
 
 
-print("world") # devloper a ne likha h suppose
+print("world") 
 
-print("nayan") # devloper a ka code
-
+print("nayan") 
