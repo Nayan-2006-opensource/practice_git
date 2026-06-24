@@ -57,7 +57,26 @@
 # then use git add file  command then commit the code 
 # then again use git checkout command (git checkout main) ab jo hmne code devloper a branch m likha tha vo gyab ho jyenga uss code ko apne main branch m merge krane ke liye
 # git commnd-> git merge branch's name
-# agr merge krte time koi issue  aagye toh  use(git commit -m "resolve merge conflict")
+# agr merge krte time koi issue  aagye toh  use(git commit -m "resolve merge conflict") after manually reviewing the file
 # then delete the copy of main branch which we have created (devloper a branch) uska command net pe mil jyega anyways it's not neccesory but a good practice
 # just type delete local branch on google copy the command use it
 # at last push the code to github if you want
+
+
+# git pull
+# agr kisi se direct repo se change kiya h code toh phele us code ko pull kro git pull origin main se then fir changes waghera krke commit and push kro
+
+# git log --oneline — commit history dekhne ke liye (clean format)
+# git diff — commit se pehle exactly kya changes hue dekh sakta hai
+# refer to github commands pdf also
+
+
+# agr merge krte time conflict aaye toh:
+# step 1: file manually edit karo — VS Code conflict wali jagah highlight karta hai
+# <<<<<<< HEAD (main branch ka code)
+# ======= (divider)
+# >>>>>>> developer-a (incoming branch ka code)
+# VS Code m upar buttons aate h: Accept Current Change / Accept Incoming Change / Accept Both Changes
+# step 2: git add <file>
+# step 3: git commit -m "resolve merge conflict"
+# automatically resolve nahi hota — kaunsa code rakhna hai ye tera decision hai
