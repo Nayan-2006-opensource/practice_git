@@ -30,6 +30,7 @@
 
 
 ## git add .-> folder ki saari files automatically track ya add hogyengi repo m 
+# ab agr git add . likne ke baad nayi file bna rhe toh vo add nhi hogi
 
 # agr hm git add . use kre toh ab bs hme changes krane ke baad git commit and git push krana h chahe same file ho ya new fie ho
 ## git branch aur git remote add origin — dono sirf ek baar. Chahe kitni bhi files ho.
