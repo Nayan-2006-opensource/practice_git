@@ -7,7 +7,7 @@
 # agr file ke changes ko track krana h toh
 # use command git add with file name in terminal (U WII BE CHANGED TO A)
 
-## to remove the file write git rn --cached<file name>
+## to remove the file write git rm --cached<file name>
 ## write git commit -m "custom msg" in terminal to commit your file or code 
 # git commit commond is very imp (iske andr jo bhi msg likhthe h vo hmare repo m show ho tha h)
 
