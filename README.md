@@ -31,6 +31,9 @@
 
 ## git add .-> folder ki saari files automatically track ya add hogyengi repo m 
 
-# ab bs hme changes krane ke baad git commit and git push krana h chahe same file ho ya new fie ho
+# agr hm git add . use kre toh ab bs hme changes krane ke baad git commit and git push krana h chahe same file ho ya new fie ho
 ## git branch aur git remote add origin — dono sirf ek baar. Chahe kitni bhi files ho.
 # git init bhi bs ek baar aata h
+# git status -> hme yeh pta chl jata h ki kitni files trace ya add h repo m
+
+
