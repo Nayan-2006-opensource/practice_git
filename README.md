@@ -47,3 +47,9 @@
 # merging branches in git
 # git branch (branch's name) write this in terminal to make a new branch apart from our main branch ( the new branch which will we crete is a copy of our main branch only)
 # ab agr hm terminal m git branch commond likhenge toh hme main branch ke alawa bhi ek aur branch show hogi jo hmmne create ki h
+# suppose-> branch name is devloper a
+# jb hm git branch likhene toh hme 2 branches show hogi terminal m  (main aur devloper a) but main green se show hogi jiska mtlb yeh h ki abhi hm main m present h aur hmne jo bhi coding kri yeh code m changes kiye, toh devloper a branch m n hokr vo changes main branch m hojyenge jo ki prblm h
+# isliye hm terminal m ek command likhenge (git checkout branch name) 
+# exm-> git checkout devloper a 
+# ab devloper a m present honge hm and ab jo changes honge vo devloper a branch m hi honge jo ki shi h and devloper a green se show hoga terminal m
+# saare changes commit krne ke baad branches switch krni hoti h
