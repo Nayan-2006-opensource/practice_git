@@ -6,7 +6,3 @@ print("hellooo")
 
 
 print("world") 
-
-print("nayan") 
-# devloper a code
-print("nayan,samdhiya")
