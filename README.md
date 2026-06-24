@@ -26,7 +26,7 @@
 ## git config --global user.email "tera@email.com" (jo github pe daala h)
 # jb life m pehli baar commit krte h toh ek baar daalna pdtha h 
 ### git add .  saare file ko add / TRACK krdete h jitni bhi h folder m automatically if you want
-# "M" KA MTLB H FILE TRACK HO GYI LEKIN COMMIT AND PUSH NHI HUA CODE
+# "M" KA MTLB H FILE TRACK HO GYI LEKIN COMMIT  NHI HUA CODE
 
 
 ## git add .-> folder ki saari files automatically track ya add hogyengi repo m 
@@ -37,4 +37,6 @@
 # git init bhi bs ek baar aata h
 # git status -> hme yeh pta chl jata h ki kitni files trace ya add h repo m
 
+# bs whi commits github pr show honge jo push krenge hm 
+# agr hmne commit ko push nhi kiya toh vo locally apne computer pr save hoga github pe nhi
 
