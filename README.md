@@ -52,4 +52,12 @@
 # isliye hm terminal m ek command likhenge (git checkout branch name) 
 # exm-> git checkout devloper a 
 # ab devloper a m present honge hm and ab jo changes honge vo devloper a branch m hi honge jo ki shi h and devloper a green se show hoga terminal m
-# saare changes commit krne ke baad branches switch krni hoti h
+# phele ke saare changes commit krne ke baad branches switch krni hoti h
+# jb hm branch change krlenge tb apna code ya code m changes krana h vo sb krlo
+# then use git add file  command then commit the code 
+# then again use git checkout command (git checkout main) ab jo hmne code devloper a branch m likha tha vo gyab ho jyenga uss code ko apne main branch m merge krane ke liye
+# git commnd-> git merge branch's name
+# agr merge krte time koi issue  aagye toh  use(git commit -m "resolve merge conflict")
+# then delete the copy of main branch which we have created (devloper a branch) uska command net pe mil jyega anyways it's not neccesory but a good practice
+# just type delete local branch on google copy the command use it
+# at last push the code to github if you want
