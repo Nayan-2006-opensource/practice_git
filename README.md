@@ -42,3 +42,8 @@
 ## .gitignore hmne direct github se hi bnai h and vscode m us file ko lane ki liye (git pull origin main) commond ko use kiya h
 ## agr hme koi specefic file prevent krana h commit krne se repo m toh hm usse gitignore file m daal denge
 
+
+
+# merging branches in git
+# git branch (branch's name) write this in terminal to make a new branch apart from our main branch ( the new branch which will we crete is a copy of our main branch only)
+# ab agr hm terminal m git branch commond likhenge toh hme main branch ke alawa bhi ek aur branch show hogi jo hmmne create ki h
