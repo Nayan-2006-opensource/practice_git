@@ -40,4 +40,5 @@
 # bs whi commits github pr show honge jo push krenge hm 
 # agr hmne commit ko push nhi kiya toh vo locally apne computer pr save hoga github pe nhi
 ## .gitignore hmne direct github se hi bnai h and vscode m us file ko lane ki liye (git pull origin main) commond ko use kiya h
+## agr hme koi specefic file prevent krana h commit krne se repo m toh hm usse gitignore file m daal denge
 
