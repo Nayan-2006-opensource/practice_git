@@ -80,3 +80,14 @@
 # step 2: git add <file>
 # step 3: git commit -m "resolve merge conflict"
 # automatically resolve nahi hota — kaunsa code rakhna hai ye tera decision hai
+
+
+# When to use `git pull`
+# 1. Someone else has pushed new code to the repository.
+#    → Use `git pull` to get those changes on your local machine.
+# 2. You pushed code from another laptop/PC.
+#    → Use `git pull` on your current device to sync the latest changes.
+# 3. You edited files directly on GitHub (e.g., README.md).
+#    → Use `git pull` to bring those changes into your local repository.
+# 4. You're working on a team project.
+#    → Always `git pull` before starting work to avoid conflicts and stay up to date.
